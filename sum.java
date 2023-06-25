@@ -4,7 +4,7 @@ Public class sum{
         int a=5;
         int b=4;
 
-        systtem.out.println(a+b);
+        systtem.out.println("The sum is: " +(a+b));
 
     }
 }
